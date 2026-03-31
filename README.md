@@ -34,7 +34,8 @@ uvicorn app.main:app --reload
 Open browser: http://localhost:8000/docs
 
 ---
-
+## Screenshot
+![API Running](screenshot.png)
 ## Concepts covered
 - FastAPI REST API development
 - Health check and readiness probe design (used in Kubernetes)
